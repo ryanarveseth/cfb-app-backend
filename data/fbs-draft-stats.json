@@ -1,0 +1,1042 @@
+[
+  {
+    "id": 2005,
+    "school": "Air Force",
+    "draftPicks": 8,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 0,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 2006,
+    "school": "Akron",
+    "draftPicks": 17,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 0,
+    "mrIrrelevants": 1
+  },
+  {
+    "id": 333,
+    "school": "Alabama",
+    "draftPicks": 385,
+    "numberOnePicks": 2,
+    "firstRoundPicks": 75,
+    "mrIrrelevants": 1
+  },
+  {
+    "id": 2026,
+    "school": "Appalachian State",
+    "draftPicks": 30,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 0,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 12,
+    "school": "Arizona",
+    "draftPicks": 184,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 10,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 9,
+    "school": "Arizona State",
+    "draftPicks": 250,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 26,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 8,
+    "school": "Arkansas",
+    "draftPicks": 275,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 22,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 2032,
+    "school": "Arkansas State",
+    "draftPicks": 51,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 0,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 349,
+    "school": "Army",
+    "draftPicks": 26,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 3,
+    "mrIrrelevants": 1
+  },
+  {
+    "id": 2,
+    "school": "Auburn",
+    "draftPicks": 289,
+    "numberOnePicks": 4,
+    "firstRoundPicks": 32,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 2050,
+    "school": "Ball State",
+    "draftPicks": 29,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 0,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 239,
+    "school": "Baylor",
+    "draftPicks": 242,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 21,
+    "mrIrrelevants": 1
+  },
+  {
+    "id": 68,
+    "school": "Boise State",
+    "draftPicks": 69,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 5,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 103,
+    "school": "Boston College",
+    "draftPicks": 212,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 20,
+    "mrIrrelevants": 1
+  },
+  {
+    "id": 189,
+    "school": "Bowling Green",
+    "draftPicks": 65,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 1,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 2084,
+    "school": "Buffalo",
+    "draftPicks": 15,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 1,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 252,
+    "school": "BYU",
+    "draftPicks": 148,
+    "numberOnePicks": 1,
+    "firstRoundPicks": 12,
+    "mrIrrelevants": 1
+  },
+  {
+    "id": 25,
+    "school": "California",
+    "draftPicks": 241,
+    "numberOnePicks": 2,
+    "firstRoundPicks": 27,
+    "mrIrrelevants": 1
+  },
+  {
+    "id": 2117,
+    "school": "Central Michigan",
+    "draftPicks": 40,
+    "numberOnePicks": 1,
+    "firstRoundPicks": 2,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 2429,
+    "school": "Charlotte",
+    "draftPicks": 2,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 0,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 2132,
+    "school": "Cincinnati",
+    "draftPicks": 121,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 2,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 228,
+    "school": "Clemson",
+    "draftPicks": 266,
+    "numberOnePicks": 1,
+    "firstRoundPicks": 37,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 324,
+    "school": "Coastal Carolina",
+    "draftPicks": 7,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 0,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 38,
+    "school": "Colorado",
+    "draftPicks": 276,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 24,
+    "mrIrrelevants": 2
+  },
+  {
+    "id": 36,
+    "school": "Colorado State",
+    "draftPicks": 104,
+    "numberOnePicks": 1,
+    "firstRoundPicks": 5,
+    "mrIrrelevants": 1
+  },
+  {
+    "id": 41,
+    "school": "Connecticut",
+    "draftPicks": 42,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 2,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 150,
+    "school": "Duke",
+    "draftPicks": 158,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 8,
+    "mrIrrelevants": 1
+  },
+  {
+    "id": 151,
+    "school": "East Carolina",
+    "draftPicks": 65,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 2,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 2199,
+    "school": "Eastern Michigan",
+    "draftPicks": 29,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 2,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 57,
+    "school": "Florida",
+    "draftPicks": 364,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 56,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 2226,
+    "school": "Florida Atlantic",
+    "draftPicks": 10,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 0,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 2229,
+    "school": "Florida International",
+    "draftPicks": 10,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 0,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 52,
+    "school": "Florida State",
+    "draftPicks": 276,
+    "numberOnePicks": 1,
+    "firstRoundPicks": 45,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 278,
+    "school": "Fresno State",
+    "draftPicks": 109,
+    "numberOnePicks": 1,
+    "firstRoundPicks": 5,
+    "mrIrrelevants": 1
+  },
+  {
+    "id": 61,
+    "school": "Georgia",
+    "draftPicks": 346,
+    "numberOnePicks": 4,
+    "firstRoundPicks": 39,
+    "mrIrrelevants": 2
+  },
+  {
+    "id": 290,
+    "school": "Georgia Southern",
+    "draftPicks": 15,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 0,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 2247,
+    "school": "Georgia State",
+    "draftPicks": 3,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 0,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 59,
+    "school": "Georgia Tech",
+    "draftPicks": 218,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 10,
+    "mrIrrelevants": 1
+  },
+  {
+    "id": 62,
+    "school": "Hawai'i",
+    "draftPicks": 73,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 1,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 248,
+    "school": "Houston",
+    "draftPicks": 180,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 15,
+    "mrIrrelevants": 2
+  },
+  {
+    "id": 356,
+    "school": "Illinois",
+    "draftPicks": 248,
+    "numberOnePicks": 2,
+    "firstRoundPicks": 22,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 84,
+    "school": "Indiana",
+    "draftPicks": 171,
+    "numberOnePicks": 1,
+    "firstRoundPicks": 12,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 2294,
+    "school": "Iowa",
+    "draftPicks": 266,
+    "numberOnePicks": 1,
+    "firstRoundPicks": 23,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 66,
+    "school": "Iowa State",
+    "draftPicks": 120,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 1,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 2305,
+    "school": "Kansas",
+    "draftPicks": 168,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 9,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 2306,
+    "school": "Kansas State",
+    "draftPicks": 145,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 5,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 2309,
+    "school": "Kent State",
+    "draftPicks": 41,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 0,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 96,
+    "school": "Kentucky",
+    "draftPicks": 205,
+    "numberOnePicks": 1,
+    "firstRoundPicks": 16,
+    "mrIrrelevants": 1
+  },
+  {
+    "id": 2335,
+    "school": "Liberty",
+    "draftPicks": 8,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 1,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 309,
+    "school": "Louisiana",
+    "draftPicks": 0,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 0,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 2433,
+    "school": "Louisiana Monroe",
+    "draftPicks": 7,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 0,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 2348,
+    "school": "Louisiana Tech",
+    "draftPicks": 69,
+    "numberOnePicks": 1,
+    "firstRoundPicks": 5,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 97,
+    "school": "Louisville",
+    "draftPicks": 128,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 16,
+    "mrIrrelevants": 1
+  },
+  {
+    "id": 99,
+    "school": "LSU",
+    "draftPicks": 359,
+    "numberOnePicks": 3,
+    "firstRoundPicks": 48,
+    "mrIrrelevants": 1
+  },
+  {
+    "id": 276,
+    "school": "Marshall",
+    "draftPicks": 43,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 3,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 120,
+    "school": "Maryland",
+    "draftPicks": 221,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 17,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 235,
+    "school": "Memphis",
+    "draftPicks": 36,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 4,
+    "mrIrrelevants": 1
+  },
+  {
+    "id": 2390,
+    "school": "Miami",
+    "draftPicks": 355,
+    "numberOnePicks": 2,
+    "firstRoundPicks": 67,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 193,
+    "school": "Miami (OH)",
+    "draftPicks": 79,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 2,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 130,
+    "school": "Michigan",
+    "draftPicks": 387,
+    "numberOnePicks": 2,
+    "firstRoundPicks": 48,
+    "mrIrrelevants": 1
+  },
+  {
+    "id": 127,
+    "school": "Michigan State",
+    "draftPicks": 315,
+    "numberOnePicks": 1,
+    "firstRoundPicks": 36,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 2393,
+    "school": "Middle Tennessee",
+    "draftPicks": 3,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 0,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 135,
+    "school": "Minnesota",
+    "draftPicks": 274,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 18,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 344,
+    "school": "Mississippi State",
+    "draftPicks": 205,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 14,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 142,
+    "school": "Missouri",
+    "draftPicks": 223,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 20,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 2426,
+    "school": "Navy",
+    "draftPicks": 19,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 0,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 152,
+    "school": "NC State",
+    "draftPicks": 175,
+    "numberOnePicks": 2,
+    "firstRoundPicks": 18,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 158,
+    "school": "Nebraska",
+    "draftPicks": 364,
+    "numberOnePicks": 3,
+    "firstRoundPicks": 34,
+    "mrIrrelevants": 1
+  },
+  {
+    "id": 2440,
+    "school": "Nevada",
+    "draftPicks": 59,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 3,
+    "mrIrrelevants": 1
+  },
+  {
+    "id": 167,
+    "school": "New Mexico",
+    "draftPicks": 65,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 2,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 166,
+    "school": "New Mexico State",
+    "draftPicks": 55,
+    "numberOnePicks": 1,
+    "firstRoundPicks": 0,
+    "mrIrrelevants": 1
+  },
+  {
+    "id": 153,
+    "school": "North Carolina",
+    "draftPicks": 243,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 25,
+    "mrIrrelevants": 1
+  },
+  {
+    "id": 2459,
+    "school": "Northern Illinois",
+    "draftPicks": 41,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 2,
+    "mrIrrelevants": 1
+  },
+  {
+    "id": 249,
+    "school": "North Texas",
+    "draftPicks": 6,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 0,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 77,
+    "school": "Northwestern",
+    "draftPicks": 184,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 10,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 87,
+    "school": "Notre Dame",
+    "draftPicks": 522,
+    "numberOnePicks": 5,
+    "firstRoundPicks": 69,
+    "mrIrrelevants": 1
+  },
+  {
+    "id": 195,
+    "school": "Ohio",
+    "draftPicks": 34,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 1,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 194,
+    "school": "Ohio State",
+    "draftPicks": 473,
+    "numberOnePicks": 3,
+    "firstRoundPicks": 85,
+    "mrIrrelevants": 1
+  },
+  {
+    "id": 201,
+    "school": "Oklahoma",
+    "draftPicks": 402,
+    "numberOnePicks": 5,
+    "firstRoundPicks": 49,
+    "mrIrrelevants": 1
+  },
+  {
+    "id": 197,
+    "school": "Oklahoma State",
+    "draftPicks": 167,
+    "numberOnePicks": 1,
+    "firstRoundPicks": 21,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 295,
+    "school": "Old Dominion",
+    "draftPicks": 2,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 0,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 145,
+    "school": "Ole Miss",
+    "draftPicks": 248,
+    "numberOnePicks": 1,
+    "firstRoundPicks": 22,
+    "mrIrrelevants": 1
+  },
+  {
+    "id": 2483,
+    "school": "Oregon",
+    "draftPicks": 229,
+    "numberOnePicks": 1,
+    "firstRoundPicks": 20,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 204,
+    "school": "Oregon State",
+    "draftPicks": 167,
+    "numberOnePicks": 1,
+    "firstRoundPicks": 6,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 213,
+    "school": "Penn State",
+    "draftPicks": 367,
+    "numberOnePicks": 2,
+    "firstRoundPicks": 39,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 221,
+    "school": "Pittsburgh",
+    "draftPicks": 289,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 25,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 2509,
+    "school": "Purdue",
+    "draftPicks": 284,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 21,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 242,
+    "school": "Rice",
+    "draftPicks": 130,
+    "numberOnePicks": 1,
+    "firstRoundPicks": 7,
+    "mrIrrelevants": 1
+  },
+  {
+    "id": 164,
+    "school": "Rutgers",
+    "draftPicks": 63,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 3,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 21,
+    "school": "San Diego State",
+    "draftPicks": 159,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 9,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 23,
+    "school": "San José State",
+    "draftPicks": 107,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 6,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 2567,
+    "school": "SMU",
+    "draftPicks": 172,
+    "numberOnePicks": 1,
+    "firstRoundPicks": 7,
+    "mrIrrelevants": 1
+  },
+  {
+    "id": 6,
+    "school": "South Alabama",
+    "draftPicks": 2,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 0,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 2579,
+    "school": "South Carolina",
+    "draftPicks": 209,
+    "numberOnePicks": 2,
+    "firstRoundPicks": 15,
+    "mrIrrelevants": 2
+  },
+  {
+    "id": 2572,
+    "school": "Southern Mississippi",
+    "draftPicks": 115,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 4,
+    "mrIrrelevants": 1
+  },
+  {
+    "id": 58,
+    "school": "South Florida",
+    "draftPicks": 30,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 2,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 24,
+    "school": "Stanford",
+    "draftPicks": 272,
+    "numberOnePicks": 4,
+    "firstRoundPicks": 25,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 183,
+    "school": "Syracuse",
+    "draftPicks": 200,
+    "numberOnePicks": 1,
+    "firstRoundPicks": 21,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 2628,
+    "school": "TCU",
+    "draftPicks": 204,
+    "numberOnePicks": 1,
+    "firstRoundPicks": 17,
+    "mrIrrelevants": 1
+  },
+  {
+    "id": 218,
+    "school": "Temple",
+    "draftPicks": 80,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 4,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 2633,
+    "school": "Tennessee",
+    "draftPicks": 350,
+    "numberOnePicks": 2,
+    "firstRoundPicks": 46,
+    "mrIrrelevants": 2
+  },
+  {
+    "id": 251,
+    "school": "Texas",
+    "draftPicks": 353,
+    "numberOnePicks": 3,
+    "firstRoundPicks": 45,
+    "mrIrrelevants": 2
+  },
+  {
+    "id": 245,
+    "school": "Texas A&M",
+    "draftPicks": 295,
+    "numberOnePicks": 1,
+    "firstRoundPicks": 35,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 326,
+    "school": "Texas State",
+    "draftPicks": 3,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 0,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 2641,
+    "school": "Texas Tech",
+    "draftPicks": 163,
+    "numberOnePicks": 1,
+    "firstRoundPicks": 8,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 2649,
+    "school": "Toledo",
+    "draftPicks": 57,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 1,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 2653,
+    "school": "Troy",
+    "draftPicks": 34,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 2,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 2655,
+    "school": "Tulane",
+    "draftPicks": 146,
+    "numberOnePicks": 1,
+    "firstRoundPicks": 5,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 202,
+    "school": "Tulsa",
+    "draftPicks": 172,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 3,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 5,
+    "school": "UAB",
+    "draftPicks": 13,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 2,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 2116,
+    "school": "UCF",
+    "draftPicks": 47,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 4,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 26,
+    "school": "UCLA",
+    "draftPicks": 327,
+    "numberOnePicks": 1,
+    "firstRoundPicks": 36,
+    "mrIrrelevants": 1
+  },
+  {
+    "id": 113,
+    "school": "UMass",
+    "draftPicks": 26,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 2,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 2439,
+    "school": "UNLV",
+    "draftPicks": 38,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 0,
+    "mrIrrelevants": 1
+  },
+  {
+    "id": 30,
+    "school": "USC",
+    "draftPicks": 518,
+    "numberOnePicks": 5,
+    "firstRoundPicks": 83,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 254,
+    "school": "Utah",
+    "draftPicks": 168,
+    "numberOnePicks": 1,
+    "firstRoundPicks": 8,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 328,
+    "school": "Utah State",
+    "draftPicks": 116,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 5,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 2638,
+    "school": "UTEP",
+    "draftPicks": 91,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 2,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 2636,
+    "school": "UT San Antonio",
+    "draftPicks": 2,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 1,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 238,
+    "school": "Vanderbilt",
+    "draftPicks": 126,
+    "numberOnePicks": 1,
+    "firstRoundPicks": 9,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 258,
+    "school": "Virginia",
+    "draftPicks": 165,
+    "numberOnePicks": 1,
+    "firstRoundPicks": 16,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 259,
+    "school": "Virginia Tech",
+    "draftPicks": 158,
+    "numberOnePicks": 2,
+    "firstRoundPicks": 14,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 154,
+    "school": "Wake Forest",
+    "draftPicks": 140,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 5,
+    "mrIrrelevants": 1
+  },
+  {
+    "id": 264,
+    "school": "Washington",
+    "draftPicks": 311,
+    "numberOnePicks": 1,
+    "firstRoundPicks": 27,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 265,
+    "school": "Washington State",
+    "draftPicks": 195,
+    "numberOnePicks": 1,
+    "firstRoundPicks": 14,
+    "mrIrrelevants": 1
+  },
+  {
+    "id": 98,
+    "school": "Western Kentucky",
+    "draftPicks": 36,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 0,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 2711,
+    "school": "Western Michigan",
+    "draftPicks": 51,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 2,
+    "mrIrrelevants": 1
+  },
+  {
+    "id": 277,
+    "school": "West Virginia",
+    "draftPicks": 197,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 12,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 275,
+    "school": "Wisconsin",
+    "draftPicks": 289,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 30,
+    "mrIrrelevants": 0
+  },
+  {
+    "id": 2751,
+    "school": "Wyoming",
+    "draftPicks": 86,
+    "numberOnePicks": 0,
+    "firstRoundPicks": 4,
+    "mrIrrelevants": 0
+  }
+]
